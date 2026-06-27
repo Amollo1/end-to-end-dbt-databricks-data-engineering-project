@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates the design and implementation of a complete modern data engineering pipeline using **dbt**, **Databricks**, and the **Medallion Architecture (Bronze, Silver, Gold)**. The project covers the entire analytics engineering lifecycle—from ingesting raw datasets into Databricks to transforming them into analytics-ready data models, validating data quality, tracking historical changes, and preparing the project for CI/CD and version control with Git and GitHub.
+This project demonstrates the design and implementation of a complete modern data engineering pipeline using **dbt**, **Databricks**, and the **Medallion Architecture (Bronze, Silver, Gold)**. The project covers the entire analytics engineering lifecycle, from ingesting raw datasets into Databricks to transforming them into analytics-ready data models, validating data quality, tracking historical changes, and preparing the project for CI/CD and version control with Git and GitHub.
 
 The primary objective is to showcase industry best practices in data transformation, testing, documentation, modular SQL development, and analytics engineering.
 
